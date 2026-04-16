@@ -1,2 +1,9 @@
-# github-learning
-This repository is for learning Git and GitHub basics.
+# GitHub Learning
+
+This repository is created to learn:
+- Git basics
+- GitHub workflow
+- Version control
+- Push, Pull, Commit
+
+Author: Arjun
