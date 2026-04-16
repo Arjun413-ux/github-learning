@@ -1,0 +1,8 @@
+My GitHub Learning Notes
+
+Today I learned:
+- What a repository is
+- What README means
+- How to add a file in GitHub
+
+This file is created for practice.
